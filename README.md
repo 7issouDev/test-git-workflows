@@ -2,5 +2,10 @@
 
 ### All Tasks:
 
-1- add new boilterplate
-2- rename file.html 2 todos.html
+#### 1- add new boilterplate
+
+#### 2- rename file.html 2 todos.html
+
+#### 3- header pushing to repo
+
+#### 3- footer pushing to repo
