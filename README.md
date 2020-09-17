@@ -1,4 +1,6 @@
 # test-git-workflows
 
-### add new boilterplate
-### rename file.html 2 todos.html
+### All Tasks:
+
+1- add new boilterplate
+2- rename file.html 2 todos.html
