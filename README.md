@@ -14,4 +14,4 @@
 
 #### 6- informations to repo: DONE
 
-#### 7- contact to repo: MAINTAIN
+#### 7- contact to repo: DONE
